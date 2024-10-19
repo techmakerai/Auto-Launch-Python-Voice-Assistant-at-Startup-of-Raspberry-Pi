@@ -5,7 +5,7 @@ A hands-on tutorial to configure Raspberry Pi so that it will automatically laun
 Following the YouTube video below to learn more about this project:     
 https://youtu.be/iagQxcXv-So
 
-Please also check out my previous video on how to build the voice assistant,  
+Please also check out my previous video on how to build a voice assistant,  
 https://youtu.be/uV6hJQcuW4w
 
 ### Steps: 
