@@ -5,7 +5,7 @@ A hands-on tutorial to configure Raspberry Pi so that it will automatically laun
 Following the YouTube video below to learn more about this project:     
 https://youtu.be/iagQxcXv-So
 
-## Log in to Raspberry Pi with SSH
+## Login to Raspberry Pi with SSH
 ## Create a cron job with this command, 
 ```console 
 sudo crontab -e
