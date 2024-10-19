@@ -2,7 +2,7 @@
 
 A hands-on tutorial to configure Raspberry Pi so that it will automatically launch a Google Gemini-powered voice assistant (chatbot) built with Python at the startup of Raspberry Pi
 
-Following the YouTube video below to learn more about this project:
+Following the YouTube video below to learn more about this project:     
 https://youtu.be/iagQxcXv-So
 
 ## Log in to Raspberry Pi with SSH
