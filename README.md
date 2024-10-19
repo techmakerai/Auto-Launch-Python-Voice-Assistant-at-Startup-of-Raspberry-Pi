@@ -14,11 +14,11 @@ https://youtu.be/iagQxcXv-So
    /home/pi/projects/va/
    ```
 5. Create a cron job with this command, 
-```console 
-sudo crontab -e
-```
+   ```console 
+   sudo crontab -e
+   ```
 
 6. Add the following entry to the cron job file, 
-```console 
-@reboot sleep 60 && /bin/bash -c "source /home/pi/.venv/bin/activate && /home/pi/.venv/bin/python /home/pi/projects/va/gva7_led.py >> /home/pi/cron_output.log 2>&1 &"
-```
+   ```console 
+   @reboot sleep 60 && /bin/bash -c "source /home/pi/.venv/bin/activate && /home/pi/.venv/bin/python /home/pi/projects/va/gva7_led.py >> /home/pi/cron_output.log 2>&1 &"
+   ```
