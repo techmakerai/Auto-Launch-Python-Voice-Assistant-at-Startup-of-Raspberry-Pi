@@ -5,7 +5,8 @@ A hands-on tutorial to configure Raspberry Pi so that it will automatically laun
 Following the YouTube video below to learn more about this project:     
 https://youtu.be/iagQxcXv-So
 
-## Login to Raspberry Pi with SSH
+## Add your Google Gemini API key at line 36 of the Python script first. 
+## Login to Raspberry Pi with SSH. 
 ## Create a cron job with this command, 
 ```console 
 sudo crontab -e
