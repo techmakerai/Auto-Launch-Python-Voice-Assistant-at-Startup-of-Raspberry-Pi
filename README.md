@@ -1,4 +1,4 @@
-# Auto Launch Python Voice Assistant at Startup of Raspberry-Pi
+# Auto Launch Python Voice Assistant at Startup of Raspberry Pi
 
 A hands-on tutorial to configure Raspberry Pi so that it will automatically launch a Google Gemini-powered voice assistant (chatbot) built with Python at the startup of Raspberry Pi
 
