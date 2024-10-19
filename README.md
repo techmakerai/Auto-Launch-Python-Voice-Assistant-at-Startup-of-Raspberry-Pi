@@ -6,9 +6,14 @@ Following the YouTube video below to learn more about this project:
 https://youtu.be/iagQxcXv-So
 
 ### Steps: 
-1. Add your Google Gemini API key at line 36 of the Python script first. 
-2. Login to Raspberry Pi with SSH. 
-3. Create a cron job with this command, 
+1. Download the Python script.   
+2. Add your Google Gemini API key at line 36 of the Python script. 
+3. Login to Raspberry Pi with SSH.
+4. Transfer the Python script with WinSCP to the project folder, for example,
+   ```console 
+   /home/pi/projects/va/
+   ```
+6. Create a cron job with this command, 
 ```console 
 sudo crontab -e
 ```
